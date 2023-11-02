@@ -1,5 +1,5 @@
 # bitonic sorting circuit
-this repository is bitonic sorting implementation `(parallel-in parallel-out)` for input less than 512 `(n < 512)` , utilizing a circuit-based approach. 
+this repository is bitonic sorting implementation `(parallel-in parallel-out)` for input not more than 512 `(n <= 512)` , utilizing a circuit-based approach. 
 
 This effort is a segment of the final project for `Digtal Logic Computer` subject (Foundation to Computer Engineering and Digital Technology)
 
